@@ -73,17 +73,17 @@
 ## About The Project
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/5533099/77381634-cfd8e500-6d54-11ea-964b-2222a603b5d7.png" alt="Map" width="400" >
+<img src="docs\map.jpg" alt="Map" width="100%" >
 </img>
 </p>
-
-This repository is a part of [various projects](https://www.notion.so/covid19dsrp/Per-Covid19-20068e871337453f93172b7b52e83261)
 
 <p align="center">
 
 [MAP Versión mobile](https://datastudio.google.com/reporting/c817609e-3351-4614-acb7-3e72fdbc6d6a/page/QkcKB)
 
 [MAP Versión desktop](https://datastudio.google.com/u/2/reporting/9b824956-4055-46da-8c40-0d46ded5ffba/page/QkcKB)
+
+This repository is a part of [various projects](https://www.notion.so/covid19dsrp/Per-Covid19-20068e871337453f93172b7b52e83261)
 
 </p>
 
@@ -308,6 +308,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
