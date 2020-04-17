@@ -238,6 +238,8 @@ If the country have a maintainer (see Table 1):
 
 How to load data in Colab with python 3: [Google Colab - Code](https://colab.research.google.com/drive/1gPsKfPVkK5Llu6ST-QH3Gi-Lc5BhyWxl)
 
+Other [scripts here](utils\scripts)
+
 <!-- CONTACT -->
 
 ## Contact
@@ -247,6 +249,8 @@ How to load data in Colab with python 3: [Google Colab - Code](https://colab.res
 - Email: [pablo.diazv@pucp.edu.pe](pablo.diazv@pucp.edu.pe)
 
 Project Link: [https://github.com/DataScienceResearchPeru/covid-19_latinoamerica](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica)
+
+Extra data: [https://github.com/DataScienceResearchPeru/covid-19_latinoamerica_extra](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica_extra)
 
 <!-- ACKNOWLEDGEMENTS -->
 
