@@ -21,7 +21,7 @@ Filenames with format `CC.csv` where CC is the 2 letter Country Code following I
 | 2   | BOLIVIA                  |                                          |             |
 | 3   | BRAZIL                   |                                          |             |
 | 4   | CHILE                    | [MINSAL](https://bit.ly/2xWXhlH)         | 2020-03-17  |
-| 5   | COLOMBIA                 | [INS](https://bit.ly/2Rh9qsj)            | 2020-04-06  |
+| 5   | COLOMBIA                 | [Datos Abiertos](https://bit.ly/2VrJcGd)            | 2020-04-21 |
 | 6   | COSTA RICA               |                                          |             |
 | 7   | CUBA                     |                                          |             |
 | 8   | DOMINICAN REPUBLIC       |                                          |             |
