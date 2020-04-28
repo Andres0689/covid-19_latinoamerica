@@ -206,7 +206,7 @@ If the country have a maintainer (see Table 1):
 
 ## Usage
 
-How to load data in Colab with python 3: [Google Colab - Code](https://colab.research.google.com/drive/1gPsKfPVkK5Llu6ST-QH3Gi-Lc5BhyWxl)
+How to load data in Colab with python 3: [Google Colab - Code](https://bit.ly/3bJPuGM)
 
 Other [scripts here](utils\scripts)
 
@@ -221,6 +221,21 @@ Other [scripts here](utils\scripts)
 Project Link: [https://github.com/DataScienceResearchPeru/covid-19_latinoamerica](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica)
 
 Extra data: [https://github.com/DataScienceResearchPeru/covid-19_latinoamerica_extra](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica_extra)
+
+## Q&A
+
++ **How to use data?**
+
+Due to the amount of missing data, we recommend that only the `Confirmed` and `Deaths` columns be used. In the `daily_report` folder are the files for each day, there is a column called `Last Update`, we recommend removing it because it is for an internal purpose and is not relevant for any other purpose.
+
++ **Is there a easy way to load all of your data to dataframes?**
+
+Yes, we actually recommend this [notebook](https://bit.ly/3bJPuGM)
+
++ **How can I know which countries are updated each day?**
+
+By now, Perú, Chile, Honduras and Brazil are automated.
+Others, not yet.
 
 <!-- ACKNOWLEDGEMENTS -->
 
