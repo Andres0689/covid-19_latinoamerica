@@ -113,7 +113,7 @@ WARNING: Some countries are not reporting their death and recovery figures to th
 | 18  | NICARAGUA                | WITHOUT MAINTENANCE                                                                                    | [D1](https://bit.ly/2QQNfJB)                                                           |
 | 19  | PANAMA                   | [josetup123](https://github.com/josetup123)                                                            | [D1](https://bit.ly/2UpH8he)                                                           |
 | 20  | PARAGUAY                 | WITHOUT MAINTENANCE                                                                                    |                                                                                        |
-| 21  | PERU                     | [DSRP](https://bit.ly/2UzdciW) [ZurMaD](https://github.com/zurmad) [diegocl02](https://bit.ly/2wNIlGt) | [D1](https://bit.ly/2J5Wnpj) [D2](https://bit.ly/3dSKwZO)                              |
+| 21  | PERU                     | [DSRP](https://bit.ly/2UzdciW) [ZurMaD](https://github.com/zurmad) [diegocl02](https://bit.ly/2wNIlGt) | [D1](https://bit.ly/2J5Wnpj) [D2](https://bit.ly/3dSKwZO) [D3](https://bit.ly/2StGIoL) |
 | 22  | PUERTO RICO              | WITHOUT MAINTENANCE                                                                                    |                                                                                        |
 | 23  | SAIN PIERRE AND MIQUELON | WITHOUT MAINTENANCE                                                                                    |                                                                                        |
 | 24  | SAINT BARTHELEMY         | WITHOUT MAINTENANCE                                                                                    |                                                                                        |
@@ -224,15 +224,15 @@ Extra data: [https://github.com/DataScienceResearchPeru/covid-19_latinoamerica_e
 
 ## Q&A
 
-+ **How to use data?**
+- **How to use data?**
 
 Due to the amount of missing data, we recommend that only the `Confirmed` and `Deaths` columns be used. In the `daily_report` folder are the files for each day, there is a column called `Last Update`, we recommend removing it because it is for an internal purpose and is not relevant for any other purpose.
 
-+ **Is there a easy way to load all of your data to dataframes?**
+- **Is there a easy way to load all of your data to dataframes?**
 
 Yes, we actually recommend this [notebook](https://bit.ly/3bJPuGM)
 
-+ **How can I know which countries are updated each day?**
+- **How can I know which countries are updated each day?**
 
 By now, Perú, Chile, Honduras and Brazil are automated.
 Others, not yet.
