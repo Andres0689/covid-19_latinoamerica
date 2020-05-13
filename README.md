@@ -31,6 +31,8 @@
     <a href="https://datastudio.google.com/u/2/reporting/9b824956-4055-46da-8c40-0d46ded5ffba/page/QkcKB">View Map</a>
     ·
     <a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/archive/master.zip">Download data</a>
+    ·
+    <a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica_extra">Extra data</a>
     <br />
     <a href="https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/issues/new/choose">Report Bug</a>
     ·
