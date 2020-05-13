@@ -1,40 +1,57 @@
 # LATAM COVID-19 Data Repository
 
-# Time series
+Folders:
 
-It is the compilation of all daily reports in one file for easy access. 
-It contains the same columns as the daily reports except the `Last Update` column is renamed to `Date`, so it may contain multiple rows for each country.
-Is a single file `latam_covid_19_time_series.csv` in the root of this folder.
-
+- Daily Report
+- Per Patient
+- Templates
+- Time Series
 
 # Daily reports
+
 Are located in `daily_reports/` with filenames in format `YYYY-MM-DD.csv`.
 
 ## Columns
 
--   `ISO 3166-2 Code`: Código ISO de cada país. (Revisar este [archivo](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/blob/master/utils/iso3312_latinamerica.csv)) Sirve para obtener más data del país como latitud, longitud y proximamente referenciar con otras bases de datos variables climáticas, económicas, demográficas.
--   `Country`: Ubicación geográfica nivel 1 (país)
--   `Subdivision`: Ubicación geográfica nivel 2
--   `Last Update`: Fecha en la cuál se modifica la fila
--   `Confirmed`: Número de contagiados
--   `Deaths`: Número de pacientes fallecidos
--   `Recovered`: Número de pacientes recuperados
-
+- `ISO 3166-2 Code`: Código ISO de cada país. (Revisar este [archivo](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/blob/master/utils/iso3312_latinamerica.csv)) Sirve para obtener más data del país como latitud, longitud y proximamente referenciar con otras bases de datos variables climáticas, económicas, demográficas.
+- `Country`
+- `Subdivision`: Subdivision of the country
+- `Last Update`: (WARNING, internal use, don't pay attention)
+- `Confirmed`: Covid-19 confirmed cases
+- `Deaths`: Covid-19 deaths cases
+- `Recovered`: Covid-19 recovered cases
 
 # Country reports
-Are located in `per_country/` with filenames in format `CC.csv` with CC being the 2 letter Country Code following ISO_3166-1 alfa-2.
+
+(Warning: we're waiting official data, but there's data for few countries)
+Are located in `per_country/` with filenames in format `CC.csv` where `CC` is two first letters of the Country Code following ISO_3166-2 alfa-2. (You can find them in [Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-1))
 
 ## Columns
 
--   `ISO 3166-2 Code`: Código ISO de cada país. (Revisar este [archivo](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/blob/master/utils/iso3312_latinamerica.csv)) Sirve para obtener más data del país como latitud, longitud y proximamente referenciar con otras bases de datos variables climáticas, económicas, demográficas.
--   `Country`: Ubicación geográfica nivel 1 (país)
--   `Subdivision`: Ubicación geográfica nivel 2
--   `Age`
--   `Gender`
--   `First Symptoms`
--   `Date Confirmed`
--   `Hospital code`
+- `ISO 3166-2 Code`: Código ISO de cada país. (Revisar este [archivo](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/blob/master/utils/iso3312_latinamerica.csv)) Sirve para obtener más data del país como latitud, longitud y proximamente referenciar con otras bases de datos variables climáticas, económicas, demográficas.
+- `Country`
+- `Subdivision`: Subdivision of the country
+- `Age`
+- `Gender`
+- `First Symptoms`
+- `Date Confirmed`
+- `Hospital code`
 
+# Templates
 
-## Disclaimer
-This GitHub repo and its contents herein, including all data, mapping, and analysis is provided to the public strictly for educational and academic research purposes. Reliance on the Website for medical guidance or use of the Website in commerce is strictly prohibited.
+[]
+
+## Files
+
+[]
+
+# Time series
+
+It is the compilation of all daily reports in one file for easy access. Acumulative data. Files: `time_series_confirmed.csv` & `time_series_deaths.csv` & `time_series_recovered.csv`
+
+## Columns
+
+- `ISO 3166-2 Code`: Código ISO de cada país. (Revisar este [archivo](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica/blob/master/utils/iso3312_latinamerica.csv)) Sirve para obtener más data del país como latitud, longitud y proximamente referenciar con otras bases de datos variables climáticas, económicas, demográficas.
+- `Country`
+- `Subdivision`: Subdivision of the country
+- `Dates`: Each date as a column like `2020-02-28`
