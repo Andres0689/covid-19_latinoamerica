@@ -12,7 +12,7 @@
 [a2]: https://img.shields.io/github/stars/DataScienceResearchPeru/covid-19_latinoamerica?style=for-the-badge
 [a3]: https://img.shields.io/github/forks/DataScienceResearchPeru/covid-19_latinoamerica?style=for-the-badge
 [a4]: https://img.shields.io/badge/License-CC%20BY--NC--SA-green?style=for-the-badge&logo=appveyor
-[a5]: https://img.shields.io/badge/all_contributors-13-orange.svg?style=for-the-badge
+[a5]: https://img.shields.io/badge/all_contributors-17-orange.svg?style=for-the-badge
 
 <!-- PROJECT LOGO -->
 <br />
