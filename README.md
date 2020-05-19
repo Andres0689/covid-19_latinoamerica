@@ -78,18 +78,20 @@
 ## About The Project
 
 <p align="center">
-<img src="docs\map.jpg" alt="Map" width="100%" >
+<img src="old/docs/map.jpg" alt="Map" width="100%" >
 </img>
 </p>
 
 <p align="center">
-
-[MAP Versión mobile](https://datastudio.google.com/reporting/c817609e-3351-4614-acb7-3e72fdbc6d6a/page/QkcKB)
-
-[MAP Versión desktop](https://datastudio.google.com/u/2/reporting/9b824956-4055-46da-8c40-0d46ded5ffba/page/QkcKB)
-
-This repository is a part of [various projects](https://www.notion.so/covid19dsrp/Per-Covid19-20068e871337453f93172b7b52e83261)
-
+<br>
+MAP <a href="https://datastudio.google.com/u/2/reporting/9b824956-4055-46da-8c40-0d46ded5ffba/page/QkcKB">Desktop version</a>
+</br>
+<br>
+MAP <a href="https://datastudio.google.com/reporting/c817609e-3351-4614-acb7-3e72fdbc6d6a/page/QkcKB">Mobile version</a>
+</br>
+<br>
+This repository is a part of <a href="https://www.notion.so/covid19dsrp/Per-Covid19-20068e871337453f93172b7b52e83261">various projects</a>
+</br>
 </p>
 
 WARNING: Some countries are not reporting their death and recovery figures to the resolution we have in the repository.
