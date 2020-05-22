@@ -179,7 +179,7 @@ const API_KEY = 'ENTER YOUR API';
 <!-- USAGE EXAMPLES -->
 
 ## Projects
-All commits on this repo:
+All commits on this repo: <br>
 ![DSRP](old/docs/dsrp.gif)
 
 <p align="center">
