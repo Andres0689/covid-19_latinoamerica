@@ -180,7 +180,7 @@ const API_KEY = 'ENTER YOUR API';
 
 ## Projects
 All commits on this repo:
-![DSRP commits](old\docs\dsrp.gif)
+![DSRP](old/docs/dsrp.gif)
 
 <p align="center">
 REST API para programadores disponible aquí:
