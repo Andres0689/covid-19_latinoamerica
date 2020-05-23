@@ -37,7 +37,7 @@ Filenames with format `CC.csv` where CC is the 2 letter Country Code following I
 | 18  | NICARAGUA                |                                                |             |
 | 19  | PANAMA                   |                                                |             |
 | 20  | PARAGUAY                 |                                                |             |
-| 21  | PERU                     |                                                |             |
+| 21  | PERU                     | [Datos Abiertos](https://bit.ly/2Tw3o8g)       | 2020-05-23  |
 | 22  | PUERTO RICO              |                                                |             |
 | 23  | SAIN PIERRE AND MIQUELON |                                                |             |
 | 24  | SAINT BARTHELEMY         |                                                |             |
