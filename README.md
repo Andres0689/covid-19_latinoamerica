@@ -179,10 +179,13 @@ const API_KEY = 'ENTER YOUR API';
 <!-- USAGE EXAMPLES -->
 
 ## Projects
-All commits on this repo: <br>
-![DSRP](old/docs/dsrp.gif)
+
 
 <p align="center">
+
+All commits on this repo: <br>
+![DSRP](old/docs/dsrp.gif)<br>
+
 REST API para programadores disponible aquí:
 <a href="https://covid19latam.herokuapp.com/">API</a>
 </p>
